@@ -1,6 +1,9 @@
 npm init
+
 npm install node
+
 npm install express
+
 npm install moment-timezone
 
 ![image](https://github.com/wfgen/Zadanie1/assets/108794719/fce9c79e-4f79-4b94-9995-dffd6b7c411c)
